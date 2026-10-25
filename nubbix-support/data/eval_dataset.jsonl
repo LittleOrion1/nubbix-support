@@ -1,0 +1,14 @@
+{"query": "Necesito ver mi última factura y me cobraron dos veces", "category": "billing"}
+{"query": "Mi pago no se debita y necesito entender el cargo de agosto", "category": "billing"}
+{"query": "No puedo iniciar sesión y me aparece un error 500 al entrar", "category": "technical"}
+{"query": "La app se cae al cargar la pantalla de ventas", "category": "technical"}
+{"query": "Quiero cambiar el nombre del contacto principal en mi cuenta", "category": "account"}
+{"query": "Necesito cambiar la contraseña y los permisos de acceso del equipo", "category": "account"}
+{"query": "El plan no quedó activado después del cobro", "category": "billing"}
+{"query": "La integración con Shopify devuelve error 401", "category": "technical"}
+{"query": "¿Cómo puedo cancelar la suscripción y cuál es la fecha de corte?", "category": "billing"}
+{"query": "Necesito revisar quién es el responsable del plan y editar permisos", "category": "account"}
+{"query": "El usuario quiere descargar el PDF de la factura del mes pasado", "category": "billing"}
+{"query": "Hay un error al exportar CSV desde el dashboard", "category": "technical"}
+{"query": "Quiero crear más usuarios y cambiar el rol de acceso administrativo", "category": "account"}
+{"query": "El cobro duplicado apareció en la tarjeta de crédito", "category": "billing"}

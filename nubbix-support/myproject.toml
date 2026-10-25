@@ -1,0 +1,8 @@
+[tool.nubbix]
+provider = "mock"
+model = "gpt-4o-mini"
+prompt_version = "v2_few_shot"
+
+[tool.nubbix.evaluation]
+dataset = "data/eval_dataset.jsonl"
+adversarial_dataset = "data/adversarial.jsonl"
